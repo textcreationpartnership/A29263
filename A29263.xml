@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the several kinds of societies, set up of late years, for carrying on the reformation of manners, and for the propagation of Christian knowledge</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29263</idno>
+            <idno type="STC">Wing B4296A</idno>
+            <idno type="STC">ESTC R13860</idno>
+            <idno type="EEBO-CITATION">11710223</idno>
+            <idno type="OCLC">ocm 11710223</idno>
+            <idno type="VID">48280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 16:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the several kinds of societies, set up of late years, for carrying on the reformation of manners, and for the propagation of Christian knowledge</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Brudewell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Bray. Cf. Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church work --  Church of England.</term>
+               <term>Christian education.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:48280:1"/>
+            <head>A SHORT ACCOUNT OF THE Several Kinds of SOCIETIES, ſet up of late Years, for carrying on the Reformation of Manners, and for the Propagation of Chriſtian Knowledge.</head>
+            <p>AFTER that the Virtuous Part of <hi>England</hi> had long complain'd of the infamous Clubbs of <hi>Atheists, Deists,</hi> and <hi>Socinians,</hi> who, for many Years paſt, have Labour'd to ſet up the pretended Oracles of miſguided Reaſon, againſt the undoubted Oracles of God; too many of whom, by their ſcandalous Lives, moſt agreeable to their Principles, have endeavour'd to deſtroy in themſelves, and others, all Notions of Divine Things, and of the differences of Good and Evil; it was thought neceſſary, by divers ſerious Perſons of the <hi>Church of England,</hi> That the <hi>Children of Light</hi> ſhould endeavour to be as <hi>Wiſe</hi> as they; and, by forming themſelves into <hi>Societies,</hi> ſhould aſſiſt one another in their moſt Holy Faith, and a Practice agreeable thereto.</p>
+            <p>Theſe and the like Conſiderations, brought together a conſiderable Number of ſuch Pious Perſons (about Twenty Years ſince) who met of<g ref="char:EOLhyphen"/>ten, to Pray, Sing Pſalms, and Read the Holy Scriptures together; and to Reprove, Exhort, and Edifie one another, by their Religious Confe<g ref="char:EOLhyphen"/>rences; and their Number hath been daily ſo encreaſed, that they make, at preſent, about Thirty Nine <hi>Societies,</hi> in and about <hi>London</hi> and <hi>Weſtminſter;</hi> and their Example hath been follow'd, by Devout Perſons, in divers other Parts of this Nation, and in <hi>Ireland,</hi> eſpecially in <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> where there are about Ten of theſe <hi>Societies,</hi> ſupported by the Re<g ref="char:EOLhyphen"/>verend Biſhops and Inferiour Clergy there: Theſe <hi>Societies,</hi> and their Methods and Orders, were enquir'd into, and approv'd by our late Queen of Bleſſed Memory, and the late Excellent Archbiſhop <hi>Tillotſon,</hi> and are greatly eſteem'd by ſeveral Moſt Reverend and Right Reverend Biſhops, who have made the ſame Enquiry: And theſe are the <hi>Societies</hi> which are particularly call'd, <hi>THE RELIGIO<g ref="char:V">Ʋ</g>S SOCIETIES,</hi> whoſe Riſe, Progreſs, and Charitable Deſigns, are Deſcrib'd and Recom<g ref="char:EOLhyphen"/>mended, in a Pious Diſcourſe, by the Reverend Mr. <hi>Woodward.</hi>
+            </p>
+            <pb n="2" facs="tcp:48280:2"/>
+            <p>But the Private Devotions, and Exemplary Lives, of the Members of theſe <hi>Societies,</hi> were not ſufficient to ſtop the Torrent of Vice, which had broken down all the Banks of Reaſon and Religion; and there<g ref="char:EOLhyphen"/>fore, about Ten Years ſince, Five or Six private Gentlemen <hi>(Members of the Church of England)</hi> Conſidering that the higher the Tide of Wickedneſs was, the more need there was of oppoſing it; they reſol<g ref="char:EOLhyphen"/>ved to Aſſociate themſelves, to make their utmoſt Efforts for promoting the Execution of the Laws againſt <hi>Vice</hi> and <hi>Immorality,</hi> and the ſup<g ref="char:EOLhyphen"/>preſſing of them by adviſeable Methods: And this Deſign, tho' at firſt violently oppos'd by the Champions and Advocates of Debauchery, yet, by the Divine Aſſiſtance, the Patronage of His Moſt Sacred Ma<g ref="char:EOLhyphen"/>jeſty, and His late Moſt Gracious Queen, the Countenance of the Cler<g ref="char:EOLhyphen"/>gy of the greateſt Figure in the <hi>Church,</hi> particularly of His Grace the Lord Archbiſhop of <hi>Canterbury,</hi> by his Circular Letter, and the Zeal and Induſtry of the Perſons engag'd therein, hath proſper'd to a Degree, Exceedingly Great, beyond what Humane Wiſdom did, or could expect; for this Deſign Encountring no Man's honeſt Advantage, no ways inter<g ref="char:EOLhyphen"/>medling in Matters of Controverſie, being directed by Men of conſiderable Rank and Fortune, as <hi>Members of Parliament, Juſtices of the Peace, Lawyers,</hi> and <hi>Eminent Citizens;</hi> and who are alſo of the cleareſt Character; and the Exe<g ref="char:EOLhyphen"/>cutive Part manag'd by ſuch who have refus'd even that part of the For<g ref="char:EOLhyphen"/>feitures, on Convictions, which the Law allows to Informers, leaſt they ſhould ſeem to aim at <hi>Their own private Advantage;</hi> many Virtuous People of the too various Denominations of <hi>Proteſtants</hi> amongſt us, have readily agreed to joyn Hearts and Purſes in the Proſecution thereof; and this Union of Hearts and Affections, in things ſo agreeable to all, who de<g ref="char:EOLhyphen"/>ſerve the Name of <hi>Proteſtants,</hi> of <hi>Chriſtians,</hi> of <hi>Engliſhmen,</hi> or even of <hi>Men,</hi> hath been of great uſe, to remove the Prejudices, which many had taken up, againſt <hi>The Eſtabliſh'd Church,</hi> and againſt one another; and hath laid a Foundation of that Union, which may be a probable means of putting an end to Schiſms and Diviſions, of reſtoring the Primitive Diſcipline in the Church, and of teaching <hi>England</hi> to <hi>Keep the unity of the Spirit in the bond of Peace.</hi>
+            </p>
+            <p>It is by the Endeavours of this <hi>Society</hi> (aſſiſted by the <hi>Religious Societies</hi> aforeſaid) and divers others ſince form'd, and acting under the Influ<g ref="char:EOLhyphen"/>ence of it, that more than Twenty Thouſand Perſons have been Convi<g ref="char:EOLhyphen"/>cted for <hi>Swearing, Curſing,</hi> or <hi>Prophanation of the Lord's-Day,</hi> in and about the Cities of <hi>London</hi> and <hi>Weſtminſter;</hi> and many of them, at leaſt out<g ref="char:EOLhyphen"/>wardly, Reformed thereby; and the Proſecutions have been manag'd with ſo much Tenterneſs and Chriſtian Charity, that no juſt Cauſe of Complaint has ever yet appear'd againſt them; and by the Endeavours of one of theſe <hi>Societies</hi> alone, Three Thouſand lewd and diſorderly Per<g ref="char:EOLhyphen"/>ſons have been Puniſh'd within the ſame Limits: And 'tis of theſe <hi>Societies,</hi> and their Riſe, Progreſs and Succeſs, that the World has had an Account, in a Book, Entitul'd, <hi>An Account of the Societies for the Reformation of Manners in</hi> England <hi>and</hi> Ireland; <hi>with a Perſwaſion to Perſons of all Ranks to be zealous and diligent in promoting the Execution of the Laws againſt Pro<g ref="char:EOLhyphen"/>phaneſs and Debauchery, for effecting a</hi> National Reformation: <hi>Publiſh'd with the Approbation of a conſiderable Number of Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral, and of the Honourable Judges of both Kingdoms.</hi>
+            </p>
+            <pb n="3" facs="tcp:48280:2"/>
+            <p>But altho' the Succeſs of theſe <hi>Societies</hi> was already very great, and tho' it ſhould be ſtill more and more abundant, there ſeem'd yet ſome<g ref="char:EOLhyphen"/>thing more that was needful to be done <hi>againſt Satan's Kingdom, and to promote the Kingdom of Jeſus Christ.</hi> The meeting together for mu<g ref="char:EOLhyphen"/>tual Edification, in <hi>Religious Societies,</hi> is a probable means of making good Men better; and the Vigilance of <hi>Societies,</hi> for <hi>Reformation of Man<g ref="char:EOLhyphen"/>ners,</hi> is likely, not only to keep ill Men from growing worſe, but to Convert and Amend them: But for the laſting Eſtabliſhment of our holy Faith, and the ſpreading of it in the World, there is a viſible Ne<g ref="char:EOLhyphen"/>ceſſity of ſome ſpecial Care to be taken for the breeding up of Chil<g ref="char:EOLhyphen"/>dren in Virtue and true Religion, for the reclaiming of thoſe who Err in the Fundamentals of <hi>Chriſtianity,</hi> and for encouraging the Pro<g ref="char:EOLhyphen"/>pagation of the Goſpel in our <hi>Plantations.</hi>
+            </p>
+            <p>This Conſideration mov'd ſome Perſons of <hi>Honour</hi> and <hi>Quality,</hi> who had a true Zeal for the Glory of God, the Salvation of their Brethren, and the Reputation of our <hi>Mother-Church,</hi> to Unite themſelves into a <hi>Society, for the promoting of Chriſtian Knowledge</hi> both at Home and Abroad; and they apply'd themſelves to form Methods, and to find out means of accompliſhing ſo glorious an Undertaking; regulating themſelves always by the <hi>Eccleſiaſtical Conſtitutions,</hi> as the <hi>Societies for Reformation</hi> do themſelves by the <hi>Temporal Laws</hi> of <hi>England.</hi> And thus about <hi>March, Anno</hi> 1698/9, began the <hi>Society for promoting of Chri<g ref="char:EOLhyphen"/>ſtian Knowledge,</hi> which has, ſince that time, been daily encreaſed, by the Acceſſion of many worthy Perſons, who were deſirous to be in<g ref="char:EOLhyphen"/>ſtrumental in ſo Excellent a Deſign; ſo that at preſent it conſiſts of a conſiderable Number of Perſons of Quality and Eſtates, Biſhops, Eminent Clergymen, Lawyers, <hi>&amp;c.</hi> beſides their Correſpondents which are carrying on the ſame Work in all the Counties of <hi>England</hi> and <hi>Wales,</hi> and in the <hi>Plantations beyond the Seas.</hi>
+            </p>
+            <p>This <hi>Society</hi> meets Weekly to deliberate about what is Expedient for the carrying on of thoſe Pious Ends for which they United; and they have already made a Progreſs beyond what could reaſonably have been hoped for in ſo ſhort a time. They have (by their own Subſcriptions, and others which they have procur'd) bought great Num<g ref="char:EOLhyphen"/>bers of Uſeful Books, for the furniſhing of the <hi>Plantations</hi> with <hi>Paro<g ref="char:EOLhyphen"/>chial Libraries,</hi> to invite Worthy Clergymen to thoſe Parts; by whoſe Labours, the <hi>Chriſtians,</hi> who are there, may be Edify'd, and the Goſ<g ref="char:EOLhyphen"/>pel Propagated among the <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers.</hi>
+            </p>
+            <p>They have diſperſed great Numbers of good Books for the Inſtru<g ref="char:EOLhyphen"/>cting of poor Families in the true Principles of the <hi>Chriſtian Religion.</hi> They are uſing means for the providing <hi>Catechetical-Libraries</hi> in the ſmaller Pariſhes, to enable the Inferiour Clergy the better to perform their Duty of <hi>Catechizing,</hi> according to the LIXth <hi>Canon,</hi> and the grea<g ref="char:EOLhyphen"/>ter Pariſhes with <hi>Lending-Libraries,</hi> which will be of great uſe to the Poorer Clergy, to aſſiſt them in the more ſucceſsful oppoſing of Errors and Hereſies. And they have more particularly apply'd themſelves to the ſetting up of <hi>Schools</hi> for the Education of <hi>Poor Children,</hi> many of which are Erected, and are now Erecting in the Country: In and about <hi>London</hi> and <hi>Weſtminſter,</hi> there are already ſet up about Twenty of them, in which near a Thouſand <hi>Poor Children,</hi> of both Sexes, are taught to Read the Bible, and to repeat and underſtand the <hi>Church Cate<g ref="char:EOLhyphen"/>chiſm;</hi>
+               <pb n="4" facs="tcp:48280:3"/>and the Boys are beſides taught to Write and Caſt Accompt, to fit them for Trades, and the Girls to Knit, Work with their Needle, <hi>&amp;c.</hi> to make them good Servants in others Families, or good Wives and Mothers in their own; and by this means we have a fair proſpect of a great Reformation of the poorer ſort (who are now ſo much Corrupted) by the bringing up of ſuch Numbers of them Piouſly, in a true conformity to the Church, and in ways that lead them to be ſer<g ref="char:EOLhyphen"/>viceable to the Publick.</p>
+            <p>It is not doubted, but that all true Lovers of the <hi>Church of England,</hi> to whom this Account ſhall come, will, with their Prayers, Counte<g ref="char:EOLhyphen"/>nance, and Aſſiſtance, joyn in theſe Pious Endeavours, by which ſo much Good may be done to the World, and ſo much Honour redound to our Holy Religion and the Eſtabliſh'd Church, that our Enemies may have no room to charge us with the betraying the Intereſt of our Church, by Supinity or Negligence, or with Coldneſs in promoting true Piety and Religion at Home, or in ſpreading it Abroad in the re<g ref="char:EOLhyphen"/>moter part of the Earth: And we need not doubt but theſe bleſſed Deſigns will gain Credit to this Church, both at Home and Abroad; and help to continue it, as it hath conſtantly been, ſince the <hi>Reforma<g ref="char:EOLhyphen"/>tion,</hi> the Bulwark of the <hi>Proteſtant</hi> Religion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Brudenell,</hi> in <hi>Jewin-ſtreet,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
